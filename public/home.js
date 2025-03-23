@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
           </div>
         `
         break
