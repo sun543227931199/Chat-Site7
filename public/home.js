@@ -117,7 +117,24 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
+            <p>.</p>WELCOME TO COINBASE SUPPORT
+Your trusted help center — available 24/7.
+
+Whether you’re having trouble accessing your account, completing a transaction, or just need guidance, our dedicated support team is here to assist you every step of the way.
+Get fast, secure, and expert help whenever you need it.
+
+Coinbase Support is the official customer service team for Coinbase, a leading online platform used to buy, sell, and store cryptocurrencies such as Bitcoin, Ethereum, and more.
+
+Our support team is dedicated to helping users with a wide range of needs, including:
+	•	✅ Answering questions about Coinbase services and features
+	•	✅ Resolving issues with accounts, transactions, and payments
+	•	✅ Providing expert guidance on security, identity verification, and compliance
+	•	✅ Assisting with technical problems like login errors or connection issues
+
+If you need help, you can reach Coinbase Support directly through this platform.
+We’re here to ensure a smooth and secure experience for every user.
+
+
           </div>
         `
         break
